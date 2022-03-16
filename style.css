@@ -1,0 +1,12 @@
+body {
+	min-width: 320px;
+}
+
+h1 {
+	color: rgb(0, 0, 102);
+}
+
+.container {
+	margin: 0 auto;
+	text-align: center;
+}
